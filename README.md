@@ -1,3 +1,3 @@
 # nuttakorn_test
 
-This is git for team session.
+This is git for team session CS100.
